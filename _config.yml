@@ -20,10 +20,10 @@ timezone: Asia/Shanghai
 
 title: "Oswald522\n个人博客" # the main title
 
-tagline: 记录个人学习过程 # it will display as the sub-title
+tagline: 记录个人学习过程(包含但不限于python、rust、RL、ML) # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  记录个人学习过程，主要有 深度学习、机器学习、强化学习，一些折腾的内容记录。 编程语言为Python 和 Rust .
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://oswald522.github.io/"
@@ -73,7 +73,7 @@ theme_mode:  light #[light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar: ./assets/img/logo.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
